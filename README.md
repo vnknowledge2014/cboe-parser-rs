@@ -47,7 +47,7 @@ Trong thị trường chứng khoán, **thông tin là sức mạnh**. Các nhà
 
 **PITCH Protocol** là cách CBOE truyền tải thông tin này đến các:
 - **Trading firms:** Công ty môi giới
-- **Market makers:** Nhà tạo thị
+- **Market makers:** Nhà tạo lập thị trường
 - **Algorithmic traders:** Trader tự động
 - **Data vendors:** Nhà cung cấp dữ liệu tài chính
 
